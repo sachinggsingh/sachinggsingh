@@ -2,6 +2,7 @@
   <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif">
   <br>I'm Sachin Singh</h1>
 <h3 align="center">A Code Enthusiast from India</h3>
+<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/8a9c7f854df987a0b488caf7b4ca6fb56e368e1a0b85602574da94c19d1c2d2e/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sachinggsingh&label=Profile%20views&color=0e75b6&style=flat" alt="sachinggsingh" /> </p>
 
@@ -31,6 +32,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
 </div>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sachinggsingh&show_icons=true&locale=en&layout=compact" alt="sachinggsingh" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sachinggsingh&show_icons=true&locale=en" alt="sachinggsingh" /></p>
