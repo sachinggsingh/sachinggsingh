@@ -19,17 +19,17 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg" alt="c" width="40" height="40" style=”padding: 15px 15px 15px 15px;”/> </a> 
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg" alt="c" width="40" height="40" style="padding: 10px 10px 10px 10px;"/> </a> 
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" alt="cplusplus" width="40" height="40" style=”padding: 15px 15px 15px 15px;”/> </a> 
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" alt="cplusplus" width="40" height="40" style="padding: 10px 10px 10px 10px;"/> </a> 
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" alt="css3" width="40" height="40" style=”padding: 15px 15px 15px 15px;”/> </a> 
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" alt="css3" width="40" height="40" style="padding: 10px 10px 10px 10px;"/> </a> 
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" alt="html5" width="40" height="40" style=”padding: 15px 15px 15px 15px;”/> </a> 
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" alt="html5" width="40" height="40" style="padding: 10px 10px 10px 10px;"/> </a> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" alt="javascript" width="40" height="40" style=”padding: 15px 15px 15px 15px;”/> </a> 
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" alt="javascript" width="40" height="40" style="padding: 10px 10px 10px 10px;"/> </a> 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" alt="python" width="40" height="40" style=”padding: 15px 15px 15px 15px;”/> </a>
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" alt="python" width="40" height="40" style="padding: 10px 10px 10px 10px;"/> </a>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sachinggsingh&show_icons=true&locale=en&layout=compact" alt="sachinggsingh" /></p>
