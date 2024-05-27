@@ -10,7 +10,7 @@
 
 - 📧 How to reach me **sachinsigh123580@gmail.com**
 
-- 😁😁😁 Fun fact **that I'm hilarious😁😁😁**
+- 😁😁😁 Fun fact that <b>I'm Hilarious😁😁😁</b>
 
 Skills
 <p align="left">
