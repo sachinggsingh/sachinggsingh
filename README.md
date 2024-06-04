@@ -8,7 +8,7 @@
 
 - 👨🏻‍💻👨🏻‍💻 All my projects are available on [https://github.com/sachinggsingh](https://github.com/sachinggsingh)
 
-- 📧 How to reach me **sachinsigh123580@gmail.com**
+- 📧 How to reach me **sachingajendrasingh@gmail.com**
 
 - 😁😁😁 Fun fact that <b>I'm Hilarious😁😁😁</b>
 
