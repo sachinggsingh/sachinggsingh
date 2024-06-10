@@ -1,4 +1,4 @@
-<h1 align="center">Oh!!  Hi 
+<h1 align="center">Oh!!  Hi
   <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif">
   <br>I'm Sachin Singh</h1>
 <h3 align="center">A Code Enthusiast from India</h3>
@@ -21,6 +21,13 @@ Socials
 
 <p align="left"> <a href="https://www.github.com/sachinggsingh" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/sachinsingh.7.7" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/sachin-singh-251918307/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
 
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/sachinggsingh"><img src="https://github-readme-stats.vercel.app/api?username=sachinggsingh&show_icons=true&hide=&title_color=64748b&text_color=ef4444&icon_color=3382ed&bg_color=27272a&hide_border=true&show_icons=true" alt="sachinggsingh's GitHub stats" /></a>
+
+<a href="http://www.github.com/sachinggsingh"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sachinggsingh&stroke=ef4444&background=27272a&ring=64748b&fire=64748b&currStreakNum=ef4444&currStreakLabel=64748b&sideNums=ef4444&sideLabels=ef4444&dates=ef4444&hide_border=true" /></a>
+
+<a href="https://github.com/sachinggsingh" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachinggsingh&langs_count=10&title_color=64748b&text_color=ef4444&icon_color=3382ed&bg_color=27272a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sachinggsingh&theme=shades-of-purple&hide_border=true)<br/>
