@@ -23,12 +23,9 @@ Socials
 
 
 # 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sachinggsingh&theme=shades-of-purple&hide_border=true&include_all_commits=false&count_private=false&layout=compact)<br>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sachinggsingh&theme=shades-of-purple&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sachinggsingh&theme=shades-of-purple&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
 
 ![GitHub metrics](https://metrics.lecoq.io/sachinggsingh) 
