@@ -10,7 +10,7 @@
 
 - 📧 How to reach me **sachingajendrasingh@gmail.com**
 
-- 😁😁😁 Fun is fact that <b>I'm Hilarious😁😁😁</b>
+- 😁😁😁 Fun fact is that <b>I'm Hilarious😁😁😁</b>
 
 Skills
 <p align="left">
