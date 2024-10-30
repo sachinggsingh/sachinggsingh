@@ -14,6 +14,7 @@
 - 😁😁😁 Fun fact is that <b>I'm Hilarious😁😁😁</b>
 
 
+
 ### Skills
 
 ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
@@ -58,6 +59,9 @@
 
 [![An image of @sachinggsingh's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sachinggsingh)](https://holopin.io/@sachinggsingh)
 
+
+<div align="center">
+ 
 # 📊 GitHub Stats:
 | **Languages**   | **Usage Percentage** | **Favorite Feature**           |
 |-----------------|----------------------|--------------------------------|
@@ -67,6 +71,7 @@
 | ![C](https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)                 | 10.03%                   | System Programming             |
 | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | 7.37%                   | Frontend Development           |
 | ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)      | 3.33%                   | Data Analysis                  |
+</div>
 
 [![Sachin's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sachinggsingh&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
