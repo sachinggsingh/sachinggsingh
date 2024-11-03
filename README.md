@@ -83,7 +83,7 @@
 | ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)      | 3.33%                   | Data Analysis                  |
 </div>
 
-[![Sachin's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sachinggsingh&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![Sachin's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sachinggsingh&theme=Default (cotton candy))
 
 <br/>
 
