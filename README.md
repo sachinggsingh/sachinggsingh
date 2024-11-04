@@ -2,7 +2,7 @@
 ![Blue Geometric Illustration Graphic Designer LinkedIn Banner](https://github.com/user-attachments/assets/f8c29030-72c5-487b-8c2b-151d2da82988)
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=25&duration=3200&color=0000CD&center=true&vCenter=true&width=450&lines=Hey..+I'm+Sachin+Singh;Welcome+to+my+GitHub+profile!;Passionate+about+Coding!;Exploring+new+technologies!;Let's+code+together!" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=25&duration=3200&color=D3D3D3&center=true&vCenter=true&width=450&lines=Hey..+I'm+Sachin+Singh;Welcome+to+my+GitHub+profile!;Passionate+about+Coding!;Exploring+new+technologies!;Let's+code+together!" alt="Typing SVG">
 </p>
 
 <!-- <img align="right"  alt="coding" width="450" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif"> -->
