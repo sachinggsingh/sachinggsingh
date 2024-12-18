@@ -85,12 +85,12 @@
 # 📊 GitHub Stats:
 | **Languages**   | **Usage Percentage** | **Favorite Feature**           |
 |-----------------|----------------------|--------------------------------|
-| ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)      | 36.00%                   | Competitive Coding             |
-| ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)         | 22.00%                   | Responsive Design              |
-| ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)       | 18.00%                   | Semantic Structure             |
-| ![C](https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)                 | 12.00%                   | System Programming             |
-| ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | 8.00%                   | Frontend Development           |
-| ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)      | 4.00%                   | Data Analysis                  |
+| ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | 56.35%                   | Frontend Development           |
+| ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)      | 13.95%                   | Competitive Coding             |
+| ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)         | 11.51%                   | Responsive Design              |
+| ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)       | 10.15%                   | Semantic Structure             |
+| ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)      | 4.14%                   | Data Analysis                  |
+| ![C](https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)                 | 4.05%                   | System Programming             |
 
 </div>
 
@@ -99,3 +99,5 @@
 <br/>
 
 ![Welcome to My Profile](https://camo.githubusercontent.com/d29e12fc9dbe987a57f309d86d9b8f81b45c7d8e7a09d5217464f8893e8dc2a7/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e74266865696768743d36302673656374696f6e3d666f6f746572)
+
+
