@@ -94,7 +94,7 @@
 
 </div>
 
-![Sachin's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sachinggsingh&theme=Default (cotton candy))
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sachinggsingh&bg_color=73479e&color=4c999e&line=ffffff&point=000000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <br/>
 
