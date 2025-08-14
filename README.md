@@ -13,7 +13,6 @@
 - 👨🏻‍💻 All my projects are available on [**GitHub**](https://github.com/sachinggsingh)  
 - 😁 Fun fact: **I'm Hilarious 😁😁😁**
 
----
 
 ## 🚀 Skills  
 
@@ -36,7 +35,6 @@
 
 </div>
 
----
 
 
 ## 🌐 Connect with Me  
@@ -47,7 +45,6 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sachinggsingh@gmail.com)
 [![X](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/sachingsingh77)
 
----
 
 ## 🪶 GSSOC(24) Badges  
 <div align="center">
@@ -64,7 +61,6 @@
 
 [![Holopin Badges](https://holopin.me/sachinggsingh)](https://holopin.io/@sachinggsingh)
 
----
 
 ## 📊 GitHub Stats
 <div align="center">
