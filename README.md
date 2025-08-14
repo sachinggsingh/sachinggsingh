@@ -38,6 +38,7 @@
 
 ---
 
+
 ## 🌐 Connect with Me  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sachin-g-singh/)
@@ -66,16 +67,10 @@
 ---
 
 ## 📊 GitHub Stats
-
-| **Languages**   | **Usage %** | **Favorite Feature** |
-|-----------------|-------------|----------------------|
-| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | 56.35% | Frontend Development |
-| ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) | 13.95% | Competitive Coding |
-| ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) | 11.51% | Responsive Design |
-| ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) | 10.15% | Semantic Structure |
-| ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | 4.14% | Data Analysis |
-| ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black) | 4.05% | System Programming |
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sachinggsingh&bg_color=000000&color=40cef2&line=ffffff&point=c25151&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=sachinggsingh&show_icons=true&count_private=true&hide_border=true" align="center" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachinggsingh&hide_border=true&layout=compact" align="center" />  
+</div> 
+<br/>  
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer)
