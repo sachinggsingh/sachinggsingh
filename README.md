@@ -13,7 +13,7 @@
   <img src="https://komarev.com/ghpvc/?username=sachinggsingh&label=Profile%20views&color=000000&style=for-the-badge" alt="Profile views" />
 </p>
 
-- 👨🏻‍💻 All my projects are available on [**GitHub**](https://github.com/sachinggsingh)  
+- 👨🏻‍💻 All my projects are available on [**Link**](https://sachinsingh.dev)  
 - 😁 Fun fact: **I'm Hilarious 😁😁😁**
 
 ## 🚀 Skills
