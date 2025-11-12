@@ -18,18 +18,16 @@
 
 ## 🚀 Skills
 <div align="center"style="position: relative; z-index: 1; >
+<img src="https://skillicons.dev/icons?i=go" height="60" style="border-radius:15px; margin:10px;" />
+<img src="https://skillicons.dev/icons?i=docker" height="60" style="border-radius:15px; margin:10px;" />
+<img src="https://skillicons.dev/icons?i=mongodb" height="60" style="border-radius:15px; margin:10px;" />
 <img src="https://skillicons.dev/icons?i=js" height="60" style="border-radius:15px; margin:10px;" />
+<img src="https://skillicons.dev/icons?i=redis" height="60" style="border-radius:15px; margin:10px;" />
 <img src="https://skillicons.dev/icons?i=nodejs" height="60" style="border-radius:15px; margin:10px;" />
 <img src="https://skillicons.dev/icons?i=express" height="60" style="border-radius:15px; margin:10px;" />
-<img src="https://skillicons.dev/icons?i=go" height="60" style="border-radius:15px; margin:10px;" />
-<img src="https://skillicons.dev/icons?i=java" height="60" style="border-radius:15px; margin:10px;" />
-<img src="https://skillicons.dev/icons?i=redis" height="60" style="border-radius:15px; margin:10px;" />
-<img src="https://skillicons.dev/icons?i=docker" height="60" style="border-radius:15px; margin:10px;" />
-<img src="https://skillicons.dev/icons?i=nextjs" height="60" style="border-radius:15px; margin:10px;" />
 <img src="https://skillicons.dev/icons?i=typescript" height="60" style="border-radius:15px; margin:10px;" />
-<img src="https://skillicons.dev/icons?i=supabase" height="60" style="border-radius:15px; margin:10px;" />
-<img src="https://skillicons.dev/icons?i=mysql" height="60" style="border-radius:15px; margin:10px;" />
-<img src="https://skillicons.dev/icons?i=mongodb" height="60" style="border-radius:15px; margin:10px;" />
+<img src="https://skillicons.dev/icons?i=nextjs" height="60" style="border-radius:15px; margin:10px;" />
+<img src="https://skillicons.dev/icons?i=java" height="60" style="border-radius:15px; margin:10px;" />
 </div>
 
 ## 🌐 Connect with Me
