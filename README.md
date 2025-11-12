@@ -37,6 +37,8 @@
 [![X](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/sachingsingh77)
 
 ## 🪶 GSSOC(24) Badges
+<div display="flex>
+  
 <div align="center">
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100" height="100" />
   <img src="https://raw.githubusercontent.com/GSSoC24/Hack-Web3Conf/refs/heads/main/assets/Hack-Web3Conf%202024%20Badge%20(2).png" width="100" height="100" />
@@ -55,6 +57,7 @@
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=sachinggsingh&show_icons=true&count_private=true&hide_border=true" align="center" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachinggsingh&hide_border=true&layout=compact" align="center" />  
+</div>
 </div>
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer)
