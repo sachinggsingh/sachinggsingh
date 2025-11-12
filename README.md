@@ -1,8 +1,6 @@
-![Blue Geometric Illustration Graphic Designer LinkedIn Banner](https://github.com/user-attachments/assets/f8c29030-72c5-487b-8c2b-151d2da82988)
-
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=25&duration=3200&pause=800&color=D3D3D3&center=true&vCenter=true&width=500&lines=Hello...+Namaste+Ji!;Welcome+to+my+GitHub+profile!;Let's+code+together!"
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=25&duration=3200&pause=800&color=D3D3D3&center=true&vCenter=true&width=500&lines=Hello...+Namaste+Ji!;Welcome+to+my+GitHub+profile!;Let's+Build+together!"
     alt="Typing SVG"
   />
 </p>
@@ -17,18 +15,19 @@
 - 😁 Fun fact: **I'm Hilarious 😁😁😁**
 
 ## 🚀 Skills
-<div align="center"style="position: relative; z-index: 1; >
-<img src="https://skillicons.dev/icons?i=go" height="60" style="border-radius:15px; margin:10px;" />
-<img src="https://skillicons.dev/icons?i=docker" height="60" style="border-radius:15px; margin:10px;" />
-<img src="https://skillicons.dev/icons?i=mongodb" height="60" style="border-radius:15px; margin:10px;" />
-<img src="https://skillicons.dev/icons?i=js" height="60" style="border-radius:15px; margin:10px;" />
-<img src="https://skillicons.dev/icons?i=redis" height="60" style="border-radius:15px; margin:10px;" />
-<img src="https://skillicons.dev/icons?i=nodejs" height="60" style="border-radius:15px; margin:10px;" />
-<img src="https://skillicons.dev/icons?i=express" height="60" style="border-radius:15px; margin:10px;" />
-<img src="https://skillicons.dev/icons?i=typescript" height="60" style="border-radius:15px; margin:10px;" />
-<img src="https://skillicons.dev/icons?i=nextjs" height="60" style="border-radius:15px; margin:10px;" />
-<img src="https://skillicons.dev/icons?i=java" height="60" style="border-radius:15px; margin:10px;" />
+<div align="center" style="position: relative; z-index: 1;">
+  <img src="https://skillicons.dev/icons?i=go" height="60" style="border-radius:15px; margin:10px;" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="60" style="border-radius:15px; margin:10px;" />
+  <img src="https://skillicons.dev/icons?i=docker" height="60" style="border-radius:15px; margin:10px;" />
+  <img src="https://skillicons.dev/icons?i=js" height="60" style="border-radius:15px; margin:10px;" />
+  <img src="https://skillicons.dev/icons?i=redis" height="60" style="border-radius:15px; margin:10px;" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="60" style="border-radius:15px; margin:10px;" />
+  <img src="https://skillicons.dev/icons?i=express" height="60" style="border-radius:15px; margin:10px;" />
+  <img src="https://skillicons.dev/icons?i=typescript" height="60" style="border-radius:15px; margin:10px;" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="60" style="border-radius:15px; margin:10px;" />
+  <img src="https://skillicons.dev/icons?i=java" height="60" style="border-radius:15px; margin:10px;" />
 </div>
+
 
 ## 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sachin-g-singh/)
