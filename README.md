@@ -52,6 +52,13 @@
 
 [![Holopin Badges](https://holopin.me/sachinggsingh)](https://holopin.io/@sachinggsingh)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sachinggsingh&show=prs_merged,prs_merged_percentage)
+## 📊 GitHub Stats
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=sachinggsingh&show_icons=true&include_all_commits=true&show=prs_merged,prs_merged_percentage&theme=tokyonight"
+  />
+</p>
+
+
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer)
