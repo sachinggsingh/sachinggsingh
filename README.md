@@ -52,11 +52,6 @@
 
 [![Holopin Badges](https://holopin.me/sachinggsingh)](https://holopin.io/@sachinggsingh)
 
-## 📊 GitHub Stats
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=sachinggsingh&show_icons=true&count_private=true&hide_border=true" align="center" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachinggsingh&hide_border=true&layout=compact" align="center" />  
-</div>
-</div>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sachinggsingh&show=prs_merged,prs_merged_percentage)
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer)
