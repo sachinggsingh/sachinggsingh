@@ -1,4 +1,4 @@
-<p align="center">
+ <p align="center">
   <img
     src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=25&duration=3200&pause=800&color=D3D3D3&center=true&vCenter=true&width=500&lines=Hello...+Namaste+Ji!;Welcome+to+my+GitHub+profile!;Let's+Build+together!"
     alt="Typing SVG"
@@ -61,4 +61,5 @@
 
 
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer) 
+
