@@ -54,8 +54,6 @@
 
 [![Holopin Badges](https://holopin.me/sachinggsingh)](https://holopin.io/@sachinggsingh)
 
-
-
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sachinggsingh&theme=tokyo-night)
 
 
