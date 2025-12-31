@@ -16,10 +16,12 @@
 ## 🚀 Skills
 <div align="center" style="position: relative; z-index: 1;">
   <img src="https://skillicons.dev/icons?i=go" height="60" style="border-radius:15px; margin:10px;" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="60" style="border-radius:15px; margin:10px;" />
+ <img src="https://skillicons.dev/icons?i=kubernetes" height="60" style="border-radius:15px; margin:10px;" />
   <img src="https://skillicons.dev/icons?i=docker" height="60" style="border-radius:15px; margin:10px;" />
-  <img src="https://skillicons.dev/icons?i=js" height="60" style="border-radius:15px; margin:10px;" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="60" style="border-radius:15px; margin:10px;" />
+<img src="https://skillicons.dev/icons?i=kafka" height="60" style="border-radius:15px; margin:10px;" />
   <img src="https://skillicons.dev/icons?i=redis" height="60" style="border-radius:15px; margin:10px;" />
+  <img src="https://skillicons.dev/icons?i=js" height="60" style="border-radius:15px; margin:10px;" />
   <img src="https://skillicons.dev/icons?i=nodejs" height="60" style="border-radius:15px; margin:10px;" />
   <img src="https://skillicons.dev/icons?i=express" height="60" style="border-radius:15px; margin:10px;" />
   <img src="https://skillicons.dev/icons?i=typescript" height="60" style="border-radius:15px; margin:10px;" />
@@ -52,14 +54,9 @@
 
 [![Holopin Badges](https://holopin.me/sachinggsingh)](https://holopin.io/@sachinggsingh)
 
-## 📊 GitHub Stats
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=sachinggsingh&show_icons=true&include_all_commits=true&show=prs_merged,prs_merged_percentage&theme=tokyonight"
-  />
-</p>
 
 
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sachinggsingh&theme=tokyo-night)
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer) 
+
 
