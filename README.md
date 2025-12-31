@@ -12,6 +12,7 @@
 </p>
 
 - 😁 Fun fact: **I'm Hilarious 😁😁😁**
+- Visit: [sachinsingh.dev](https://sachinsingh.dev)
 
 ## 🚀 Skills
 <div align="center" style="position: relative; z-index: 1;">
@@ -36,6 +37,8 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sachinsingh.7.7/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sachinggsingh@gmail.com)
 [![X](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/sachingsingh77)
+
+
 
 ## 🪶 GSSOC(24) Badges
 <div display="flex>
