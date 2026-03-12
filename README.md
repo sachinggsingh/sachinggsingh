@@ -11,7 +11,7 @@
   <img src="https://komarev.com/ghpvc/?username=sachinggsingh&label=Profile%20views&color=000000&style=for-the-badge" alt="Profile views" />
 </p>
 
-- 😁 Fun fact: **I'm Hilarious 😁😁😁**
+- 😁 Fun fact: **I'm too Hilarious 😁😁😁**
 - Visit: [sachinsingh.dev](https://sachinsingh.dev)
 
 ## 🚀 Skills
@@ -19,6 +19,8 @@
   <img src="https://skillicons.dev/icons?i=go" height="60" style="border-radius:15px; margin:10px;" />
  <img src="https://skillicons.dev/icons?i=kubernetes" height="60" style="border-radius:15px; margin:10px;" />
   <img src="https://skillicons.dev/icons?i=docker" height="60" style="border-radius:15px; margin:10px;" />
+ <img src="https://skillicons.dev/icons?i=githubactions" height="60" style="border-radius:15px; margin:10px;" />
+ <img src="https://skillicons.dev/icons?i=aws" height="60" style="border-radius:15px; margin:10px;" />
   <img src="https://skillicons.dev/icons?i=mongodb" height="60" style="border-radius:15px; margin:10px;" />
 <img src="https://skillicons.dev/icons?i=kafka" height="60" style="border-radius:15px; margin:10px;" />
   <img src="https://skillicons.dev/icons?i=redis" height="60" style="border-radius:15px; margin:10px;" />
@@ -27,7 +29,6 @@
   <img src="https://skillicons.dev/icons?i=express" height="60" style="border-radius:15px; margin:10px;" />
   <img src="https://skillicons.dev/icons?i=typescript" height="60" style="border-radius:15px; margin:10px;" />
   <img src="https://skillicons.dev/icons?i=nextjs" height="60" style="border-radius:15px; margin:10px;" />
-  <img src="https://skillicons.dev/icons?i=java" height="60" style="border-radius:15px; margin:10px;" />
 </div>
 
 
