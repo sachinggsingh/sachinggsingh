@@ -18,6 +18,7 @@
 <div align="center" style="position: relative; z-index: 1;">
   <img src="https://skillicons.dev/icons?i=go" height="60" style="border-radius:15px; margin:10px;" />
  <img src="https://skillicons.dev/icons?i=kubernetes" height="60" style="border-radius:15px; margin:10px;" />
+ <img src="https://skillicons.dev/icons?i=grafana" height="60" style="border-radius:15px; margin:10px;" />
   <img src="https://skillicons.dev/icons?i=docker" height="60" style="border-radius:15px; margin:10px;" />
  <img src="https://skillicons.dev/icons?i=githubactions" height="60" style="border-radius:15px; margin:10px;" />
  <img src="https://skillicons.dev/icons?i=aws" height="60" style="border-radius:15px; margin:10px;" />
